@@ -1,0 +1,17 @@
+[
+    {
+        "id": 1,
+        "label": "Junior",
+        "value": 0
+    },
+    {
+        "id": 2,
+        "label": "Middle",
+        "value": 1
+    },
+    {
+        "id": 3,
+        "label": "Senior",
+        "value": 2
+    }
+]
